@@ -1,0 +1,6 @@
+framework module Pods_Yeeter {
+  umbrella header "Pods-Yeeter-umbrella.h"
+
+  export *
+  module * { export * }
+}

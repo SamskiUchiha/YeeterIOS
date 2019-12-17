@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ImageWithActivityIndicator",
+        "repositoryURL": "https://github.com/AliAdam/ImageWithActivityIndicator.git",
+        "state": {
+          "branch": "master",
+          "revision": "f2e5af75baa6f1e10170f27ca8cf2d0e7b8f3917",
+          "version": null
+        }
+      },
+      {
+        "package": "ModalView",
+        "repositoryURL": "https://github.com/diniska/modal-view",
+        "state": {
+          "branch": "master",
+          "revision": "ad7c17cbbdf0662f3defc5bfefd6d912d458d4a4",
+          "version": null
+        }
+      },
+      {
+        "package": "URLImage",
+        "repositoryURL": "https://github.com/dmytro-anokhin/url-image.git",
+        "state": {
+          "branch": "master",
+          "revision": "3ccf8b1c3d48614fd1e51604c8cf18ab770f0125",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
